@@ -1,0 +1,17 @@
+.dark {
+  background-color: black;
+  color: rgb(90, 194, 133);
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.di {
+  color: red;
+}
+.rect {
+  color: red;
+}
+.re {
+  color: red;
+}
